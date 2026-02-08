@@ -1,5 +1,5 @@
 import telebot
-TOKEN = '8363932836:AAE9pPoNeTBod3-BYHscry6EZ6Z97fZ400k'
+TOKEN = 'Token'
 
 from telebot import types
 
